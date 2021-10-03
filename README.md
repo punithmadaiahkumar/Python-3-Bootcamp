@@ -7,9 +7,9 @@
 | 01                | Python Comparison Operators                       |
 | 02                | Python Statements                                 |
 | 03                | Methods and Functions                             |
-| 04                |  04-Milestone Project - 1                         |
-| 05                |  Object Oriented Programming                      |
-|                   |                                                   |
+| 04                | 04-Milestone Project - 1                          |
+| 05                | Object Oriented Programming                       |
+| 06                | Modules and Packages                              |
 |                   |                                                   |
 |                   |                                                   |
 |                   |                                                   |
