@@ -10,7 +10,7 @@
 | 04                | 04-Milestone Project - 1                          |
 | 05                | Object Oriented Programming                       |
 | 06                | Modules and Packages                              |
-|                   |                                                   |
+| 07                | Errors and Exception Handling                     |
 |                   |                                                   |
 |                   |                                                   |
 |                   |                                                   |
