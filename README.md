@@ -11,7 +11,7 @@
 | 05                | Object Oriented Programming                       |
 | 06                | Modules and Packages                              |
 | 07                | Errors and Exception Handling                     |
-|                   |                                                   |
+| 08                | Milestone Project - 2                             |
 |                   |                                                   |
 |                   |                                                   |
 |                   |                                                   |
