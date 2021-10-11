@@ -13,6 +13,6 @@
 | 07                | Errors and Exception Handling                     |
 | 08                | Milestone Project - 2                             |
 | 09                | Built-in Functions                                |
-|                   |                                                   |
+| 10                | Python Decorators                                 |
 |                   |                                                   |
 |                   |                                                   |
