@@ -14,5 +14,5 @@
 | 08                | Milestone Project - 2                             |
 | 09                | Built-in Functions                                |
 | 10                | Python Decorators                                 |
-|                   |                                                   |
+| 11                | Python Generators                                 |
 |                   |                                                   |
