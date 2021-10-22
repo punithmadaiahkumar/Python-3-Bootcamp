@@ -15,4 +15,10 @@
 | 09                | Built-in Functions                                |
 | 10                | Python Decorators                                 |
 | 11                | Python Generators                                 |
+| 12                | Advanced Python Modules                           |
+|                   |                                                   |
+|                   |                                                   |
+|                   |                                                   |
+|                   |                                                   |
+|                   |                                                   |
 |                   |                                                   |
