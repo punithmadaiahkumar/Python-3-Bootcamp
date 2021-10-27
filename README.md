@@ -17,7 +17,7 @@
 | 11                | Python Generators                                 |
 | 12                | Advanced Python Modules                           |
 | 13                | Web-Scraping                                      |
-|                   |                                                   |
+| 14                | Working-with-Images                               |
 |                   |                                                   |
 |                   |                                                   |
 |                   |                                                   |
