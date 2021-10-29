@@ -18,7 +18,7 @@
 | 12                | Advanced Python Modules                           |
 | 13                | Web-Scraping                                      |
 | 14                | Working-with-Images                               |
-|                   |                                                   |
+| 15                | PDFs-and-Spreadsheets                             |
 |                   |                                                   |
 |                   |                                                   |
 |                   |                                                   |
