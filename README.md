@@ -20,5 +20,10 @@
 | 14                | Working-with-Images                               |
 | 15                | PDFs-and-Spreadsheets                             |
 | 16                | Emailing-with-Python                              |
+| 17                | Advanced Python Objects and Data Structures       |
+|                 |                                                   |
 |                   |                                                   |
 |                   |                                                   |
+|                   |                                                   |
+|                   |                                                   |
+
